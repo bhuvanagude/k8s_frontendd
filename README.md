@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# k8s_frontendd" 
 "# k8s_fullstack" 
 "# k8s_fullstack" 
+"# k8s_fullstack" 
